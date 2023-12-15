@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 .banner-slider {
-    text-decoration: none;
+
     width: 100%;
     display: flex;
     overflow: hidden;
@@ -9,6 +9,7 @@
 }
 
 .banner-slide {
+    text-decoration: none;
     display: flex;
     min-width: 100%;
     position: relative;
