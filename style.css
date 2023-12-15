@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
 .banner-slider {
     width: 100%;
     display: flex;
@@ -17,6 +19,7 @@
 }
 
 .banner-text {
+    font-family: 'Open Sans', sans-serif;
     color: #fff;
     width: 100%;
     background: linear-gradient(to top, #113141 0%, #48697a 110%);
@@ -31,6 +34,7 @@
 }
 
 .click-read {
+    font-family: 'Open Sans', sans-serif;
     position: absolute;
     bottom: 0;
     left: 0;
